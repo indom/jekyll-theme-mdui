@@ -1,10 +1,12 @@
-title: "Jekyll-Theme-MDUI"
-description: "A Jekyl Theme Based on MDUI"
-url: 
-baseurl: "/jekyll-theme-mdui"
-author: "Mysaku"
+title: "Indom"
+description: "Indom的博客"
+url: https://indom-b.tk
+baseurl: ""
+author: "Indom"
 paginate: 5
 paginate_path: "/blog/page:num/"
+
+theme: jekyll-theme-mdui
 
 plugins:
   - jekyll-sitemap
