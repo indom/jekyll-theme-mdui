@@ -1,3 +1,8 @@
+- name: navSearch
+  switch: true
+- name: HOME
+  url: /
+  icon: home
 - name: FRIENDS
   url: /friends/
   icon: "&#xe8a3;"
