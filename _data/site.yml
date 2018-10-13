@@ -3,6 +3,7 @@ head:
    high_res_favicon: "https://indom-b.tk/indom.png" #  the favicon using high quality format
    apple_touch_icon: "https://indom-b.tk/indom.png" # the iOS Home button icon
    keywords: "indom blog" #  the site keywords
+   baidu-site-verification: "sJmehe16f9"
 header:
     m_header: true
     m_color: mdui-color-pink-400
